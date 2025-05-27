@@ -13,11 +13,9 @@
 - 💡 Turning ideas into **production-grade** solutions
 
 💻 I speak:  
-`TypeScript` · `Python` · `React` · `Next.js` · `Node.js` · `Express` · `MongoDB` · `PostgreSQL` · `TensorFlow` · `PyTorch` · `Docker` · `Git`
+`TypeScript` · `Python` · `React` · `Next.js` · `Node.js` · `Express` · `MongoDB` · `PostgreSQL` · `LangChain` · `Git`
 
 ❤️ I <3 **clean code**, solving hard problems, and shipping beautiful user experiences.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -37,8 +35,6 @@ tools: [VS Code, Postman, Jupyter, Figma]
 🌍 **Location:** Hyderabad, India
 🔗 **LinkedIn / GitHub / Portfolio:** *Add your links here*
 
----
-
 ## 🔥 Fun Fact
 
 I don't just write code...
@@ -49,10 +45,3 @@ I **craft experiences**, **solve real-world problems**, and **build the future**
 ---
 
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
-
-```
-
----
-
-Let me know if you want this tailored to a specific repo (like a portfolio project or AI library), or if you want a dark-mode screenshot-style version with badges, GitHub stats, or auto-updating widgets.
-```
